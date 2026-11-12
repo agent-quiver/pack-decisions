@@ -1,0 +1,19 @@
+id: standards.docs
+kind: resource
+version: 1.2.0
+title: Docs standard
+description: Docs rulebook — docs/ is the product as it is, ops/ is the working trail; one test and a fixed table
+  decide.
+card: 'Deciding where a document lives: docs/ for the product as it is, ops/ for the working trail.'
+tags:
+- standards
+- docs
+- layout
+owner: agent-quiver
+lifecycle:
+  status: published
+audience:
+- public
+execution:
+  mode: content
+entrypoint: rules.md

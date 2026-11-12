@@ -1,0 +1,18 @@
+id: ideate
+kind: skill
+version: 2.1.1
+title: Ideation document
+description: 'Explore a problem before deciding: forces, options, evidence, prior art, a recommendation. Writes
+  ops/ideation/NNN_slug.md.'
+card: 'A problem worth exploring before deciding: forces, options, evidence, a recommendation in ops/ideation/.'
+tags:
+- planning
+- ideation
+- docs
+owner: agent-quiver
+lifecycle:
+  status: published
+audience:
+- public
+execution:
+  mode: content

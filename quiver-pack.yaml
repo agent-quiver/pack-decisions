@@ -1,0 +1,18 @@
+id: agent-quiver/pack-decisions
+version: 1.0.0
+title: Decisions pack
+card: 'Recording why: explore a problem, decide, plan and ticket the work, with one rule for where each document
+  lives.'
+description: 'Skills for the paper trail of a project: ideate (explore a problem before deciding), adr (record a
+  hard-to-reverse decision), prd (plan a change as stories with acceptance), ticket (one unit of work), and the
+  docs rulebook that says where each document lives.'
+maintainers:
+- agent-quiver
+license: CC-BY-4.0
+tags:
+- decisions
+- docs
+- planning
+requires: []
+compatibility:
+  quiver: '>=1.0.0 <2.0.0'

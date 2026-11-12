@@ -1,0 +1,17 @@
+id: ticket
+kind: skill
+version: 2.1.1
+title: Idea ticket
+description: Capture a defect or an idea as a ticket in ops/tickets/NNN_slug.md with a status.
+card: 'A defect or idea to capture for later: one file in ops/tickets/ with a status.'
+tags:
+- planning
+- backlog
+- docs
+owner: agent-quiver
+lifecycle:
+  status: published
+audience:
+- public
+execution:
+  mode: content

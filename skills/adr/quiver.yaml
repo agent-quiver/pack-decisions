@@ -1,0 +1,17 @@
+id: adr
+kind: skill
+version: 2.1.2
+title: Architecture decision record
+description: 'Record an architectural decision: context, decision, consequences, alternatives. Writes ops/adr/ADR-NNN-slug.md.'
+card: 'A hard-to-reverse decision was made: record context, decision, consequences and alternatives in ops/adr/.'
+tags:
+- docs
+- architecture
+- decisions
+owner: agent-quiver
+lifecycle:
+  status: published
+audience:
+- public
+execution:
+  mode: content

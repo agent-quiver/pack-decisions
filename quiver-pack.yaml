@@ -1,5 +1,5 @@
 id: agent-quiver/pack-decisions
-version: 1.0.0
+version: 1.1.0
 title: Decisions pack
 card: 'Recording why: explore a problem, decide, plan and ticket the work, with one rule for where each document
   lives.'
@@ -15,4 +15,8 @@ tags:
 - planning
 requires: []
 compatibility:
-  quiver: '>=1.0.0 <2.0.0'
+  quiver: '>=1.1.0 <2.0.0'
+media:
+  icon: media/icon.svg
+  banner: media/banner.png
+  accent: '#8a5700'

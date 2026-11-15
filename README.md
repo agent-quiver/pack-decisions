@@ -1,5 +1,7 @@
 # Decisions pack
 
+[![Add to Agent Quiver](https://quiver.l13v.net/brand/add-to-agent-quiver.svg)](https://quiver.l13v.net/quiver?add=github.com/agent-quiver/pack-decisions)
+
 `agent-quiver/pack-decisions` is an open [Quiver pack](https://github.com/agent-quiver/pack-standard).
 
 Skills for the paper trail of a project: ideate (explore a problem before deciding), adr (record a hard-to-reverse decision), prd (plan a change as stories with acceptance), ticket (one unit of work), and the docs rulebook that says where each document lives.

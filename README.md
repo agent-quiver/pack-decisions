@@ -16,9 +16,9 @@ Skills for the paper trail of a project: ideate (explore a problem before decidi
 
 | kind | id | version | when to use |
 |---|---|---|---|
-| skills | `ideate` | 2.1.1 | A problem worth exploring before deciding: forces, options, evidence, a recommendation in ops/ideation/. |
-| skills | `adr` | 2.1.2 | A hard-to-reverse decision was made: record context, decision, consequences and alternatives in ops/adr/. |
-| skills | `prd` | 1.1.3 | A decided change needs a plan: user stories with acceptance criteria and gates in ops/prd/. |
+| skills | `ideate` | 2.1.2 | A problem worth exploring before deciding: forces, options, evidence, a recommendation in ops/ideation/. |
+| skills | `adr` | 2.1.3 | A hard-to-reverse decision was made: record context, decision, consequences and alternatives in ops/adr/. |
+| skills | `prd` | 1.1.4 | A decided change needs a plan: user stories with acceptance criteria and gates in ops/prd/. |
 | skills | `ticket` | 2.1.1 | A defect or idea to capture for later: one file in ops/tickets/ with a status. |
 | resources | `standards.docs` | 1.2.0 | Deciding where a document lives: docs/ for the product as it is, ops/ for the working trail. |
 

@@ -1,9 +1,15 @@
 id: adr
 kind: skill
-version: 2.1.2
+version: 2.1.3
 title: Architecture decision record
 description: 'Record an architectural decision: context, decision, consequences, alternatives. Writes ops/adr/ADR-NNN-slug.md.'
 card: 'A hard-to-reverse decision was made: record context, decision, consequences and alternatives in ops/adr/.'
+discovery:
+  queries:
+  - we decided, write down why we chose it
+  - record why we picked one option over another
+  - document an architecture or technology choice
+  - a hard-to-reverse decision needs a record
 tags:
 - docs
 - architecture

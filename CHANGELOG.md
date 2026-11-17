@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2 (2026-11-17)
+
+- `ideate` 2.1.3: the discovery queries "decide between options" and "compare alternatives before choosing", the
+  task types the routing procedure searches with (agent-quiver/pack-routing), in place of two less situational ones.
+
 ## 1.1.1 (2026-11-17)
 
 - Discovery queries phrased as the situations people describe, so search finds these skills without their names:

@@ -1,6 +1,6 @@
 id: ideate
 kind: skill
-version: 2.1.2
+version: 2.1.3
 title: Ideation document
 description: 'Explore a problem before deciding: forces, options, evidence, prior art, a recommendation. Writes
   ops/ideation/NNN_slug.md.'
@@ -9,9 +9,9 @@ discovery:
   queries:
   - should we use one tool or another for this
   - which option should we choose, compare alternatives
-  - weigh the trade-offs before deciding
   - design a new component, explore approaches first
-  - is this worth building, and how
+  - decide between options
+  - compare alternatives before choosing
 tags:
 - planning
 - ideation

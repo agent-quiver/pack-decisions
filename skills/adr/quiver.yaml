@@ -1,6 +1,6 @@
 id: adr
 kind: skill
-version: 2.1.3
+version: 2.1.4
 title: Architecture decision record
 description: 'Record an architectural decision: context, decision, consequences, alternatives. Writes ops/adr/ADR-NNN-slug.md.'
 card: 'A hard-to-reverse decision was made: record context, decision, consequences and alternatives in ops/adr/.'
@@ -21,3 +21,10 @@ audience:
 - public
 execution:
   mode: content
+provenance:
+  repo: l13v/engineering
+  path: skills/adr
+  commit: 4509a338e033
+  sha256: 383691d5ff5bd06863ff1befbd285c98170a75c810b964d838ed2219efaca23f
+  imported: '2026-11-18'
+  mode: verbatim

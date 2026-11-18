@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.3 (2026-11-18)
+
+- `adr` 2.1.4, `ideate` 2.1.4, `ticket` 2.1.3 and `standards.docs` 1.2.1: imported from the engineering pack they
+  came from, now with `provenance`, so the copies match it again and search shows each once (Quiver 0.25.5).
+  `ticket` gains its frontmatter fix: one key per line. `prd` stays 1.1.4, adapted for this pack.
+
 ## 1.1.2 (2026-11-17)
 
 - `ideate` 2.1.3: the discovery queries "decide between options" and "compare alternatives before choosing", the

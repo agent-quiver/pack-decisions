@@ -9,7 +9,8 @@ description: "Capture a defect or an idea as a ticket in ops/tickets/NNN_slug.md
 ---
 status: open | fixed | closed | wontfix
 kind: defect | idea | debt
-found: <YYYY-MM-DD> · by: <seat | user>
+found: <YYYY-MM-DD>
+by: <seat | user>
 fixed: <commit sha>   # when status: fixed
 ---
 # NNN — <the root cause or the idea, in one line>

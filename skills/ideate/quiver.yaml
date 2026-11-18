@@ -1,9 +1,8 @@
 id: ideate
 kind: skill
-version: 2.1.3
+version: 2.1.4
 title: Ideation document
-description: 'Explore a problem before deciding: forces, options, evidence, prior art, a recommendation. Writes
-  ops/ideation/NNN_slug.md.'
+description: 'Explore a problem before deciding: forces, options, evidence, prior art, a recommendation. Writes ops/ideation/NNN_slug.md.'
 card: 'A problem worth exploring before deciding: forces, options, evidence, a recommendation in ops/ideation/.'
 discovery:
   queries:
@@ -23,3 +22,10 @@ audience:
 - public
 execution:
   mode: content
+provenance:
+  repo: l13v/engineering
+  path: skills/ideate
+  commit: 4509a338e033
+  sha256: 79467363dc574a81cc81deb726dd241358927b2aed56bed44a37cb4f7a1e36bb
+  imported: '2026-11-18'
+  mode: verbatim

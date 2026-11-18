@@ -1,6 +1,6 @@
 id: ticket
 kind: skill
-version: 2.1.1
+version: 2.1.3
 title: Idea ticket
 description: Capture a defect or an idea as a ticket in ops/tickets/NNN_slug.md with a status.
 card: 'A defect or idea to capture for later: one file in ops/tickets/ with a status.'
@@ -15,3 +15,10 @@ audience:
 - public
 execution:
   mode: content
+provenance:
+  repo: l13v/engineering
+  path: skills/ticket
+  commit: 4509a338e033
+  sha256: cc1929331bb9908a19f4be0a031aac11821ba3d1a321c8bc39f3c97414363b53
+  imported: '2026-11-18'
+  mode: verbatim
